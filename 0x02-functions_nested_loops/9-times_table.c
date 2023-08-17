@@ -2,6 +2,7 @@
 
 /**
  * times_table - Prints 9 times table
+ * Followed by a new line
  */
 void times_table(void)
 {
