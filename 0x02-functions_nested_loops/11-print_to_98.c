@@ -11,7 +11,6 @@ void print_to_98(int n)
 {
 	srand(time(NULL));
 
-	int n = rand() % 10 + 1;
 
 	while (n <= 98)
 	{
